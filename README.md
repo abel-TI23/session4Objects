@@ -40,3 +40,9 @@ node level2_exercise.js
 node level3_exercise.js
 node level4_exercise.js
 ```
+
+---
+
+## 📹 Video Demonstrasi
+Video demonstrasi rekaman layar (Level 3 dan Level 4) sudah diunggah langsung ke repositori:
+* File: [`assignment_4_demo.webm`](./assignment_4_demo.webm) (Format WebM, ukuran ~18.6 MB)
