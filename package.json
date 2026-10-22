@@ -1,0 +1,15 @@
+{
+  "name": "session4-objects-assignment",
+  "version": "1.0.0",
+  "description": "Tugas Pemrograman Berbasis Platform - Understanding More About Object and Function",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "level1": "node level1_exercise.js",
+    "level2": "node level2_exercise.js",
+    "level3": "node level3_exercise.js",
+    "level4": "node level4_exercise.js"
+  },
+  "author": "Abel Hendrik",
+  "license": "ISC"
+}
